@@ -6,12 +6,12 @@ eg:
 ```bash
 cd project_root_dir/backend
 ```
-### install
+#### install
 before start or build, run
 ```bash
 npm install
 ```
-### Start  
+#### Start  
 ```bash
 npm start
 ```
@@ -22,12 +22,12 @@ eg:
 ```bash
 cd project_root_dir/frontend
 ```
-### install
+#### install
 before start or build, run
 ```bash
 npm install
 ```
-### Start  
+#### Start  
 ```bash
 npm start
 ```
