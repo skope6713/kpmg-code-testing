@@ -2,7 +2,7 @@
 #### Thanks for reviewing my code testing
 ## Backend
 First of all, go into backend folder and run commands below to init & run backend project
-eg: 
+#eg: 
 ```bash
 cd project_root_dir/backend
 ```
@@ -18,7 +18,7 @@ npm start
 
 ## Frontend
 First of all, go into frontend folder and run commands below to init & run frontend project
-eg: 
+#eg: 
 ```bash
 cd project_root_dir/frontend
 ```
